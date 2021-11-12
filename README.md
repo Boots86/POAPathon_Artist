@@ -4,8 +4,8 @@
 <H3>Comic Style</H3>
   
   Purple:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Purple.png"><BR>
+<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Purple.png">
   Pink:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Pink.png"><BR>
+<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Pink.png">
   Gradient:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Gradient.png"><BR>
+<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Gradient.png">
