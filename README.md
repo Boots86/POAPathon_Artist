@@ -3,6 +3,7 @@
 <BR><HR><BR>
 <H3>Comic Style - Initial Working</H3>
   Colours slightly wrong and text background didnt feel right.
+  
   Purple:
 <img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Purple.png">
   Pink:
