@@ -5,12 +5,12 @@
   Colours slightly wrong and text background didnt feel right.
   
   Purple:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Purple.png">
+<img height="100" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Purple.png">
   Pink:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Pink.png">
+<img height="100" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Pink.png">
   Gradient:
-<img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Gradient.png">
+<img height="100" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist_Gradient.png">
 
   
   <H3>Comic Style - Final</H3>
-  <img height="200" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist.png">
+  <img height="250" src="https://github.com/Boots86/POAPathon_Artist/blob/main/POAP_Artist.png">
